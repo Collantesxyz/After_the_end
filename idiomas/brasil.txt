@@ -1,0 +1,16 @@
+{
+    "start": "Começar",
+    "opcion_button": "Opções",
+    "creador_button": "O CRIADOR",
+    "exit_button": "Sair",
+    "titulo_message": "A página está em manutenção, volte mais tarde.",
+    "back_button": "Voltar",
+    "options_titulo": "Opções de jogo",
+    "languaje_button": "Idioma",
+    "Volumen_button": "volume",
+    "lenguaje_message": "Selecione seu idioma",
+    "Idioma_ES": "Espanhol",
+    "Idioma_IN": "Inglês",
+    "Idioma_BR": "português",
+    "Idioma_RU": "russo"
+}

@@ -1,0 +1,16 @@
+{
+    "start": "Начать",
+    "opcion_button": "Настройки",
+    "creador_button": "Создатели",
+    "exit_button": "Выход",
+    "titulo_message": "Сайт находится на обслуживании. Пожалуйста, вернитесь позже.",
+    "back_button": "Назад",
+    "options_titulo": "Настройки игры",
+    "languaje_button": "Язык",
+    "Volumen_button": "Громкость",
+    "lenguaje_message": "Выберите ваш язык",
+    "Idioma_ES": "Испанский",
+    "Idioma_IN": "Английский",
+    "Idioma_BR": "Португальский",
+    "Idioma_RU": "Русский"
+}

@@ -1,0 +1,18 @@
+{
+    "start": "Start",
+    "opcion_button": "Options",
+    "creador_button": "CREATOR",
+    "Dificil": "Hard",
+    "Facil": "Easy",
+    "exit_button": "Exit",
+    "titulo_message": "The page is under maintenance, please come back later.",
+    "back_button": "Back",
+    "options_titulo": "Game options",
+    "languaje_button": "Language",
+    "Volumen_button": "volume",
+    "lenguaje_message": "Select your language",
+    "Idioma_ES": "Spanish",
+    "Idioma_IN": "English",
+    "Idioma_BR": "Portuguese",
+    "Idioma_RU": "Russian"
+}

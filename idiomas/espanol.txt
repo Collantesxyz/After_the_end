@@ -1,0 +1,18 @@
+{
+    "start": "Comenzar",
+    "opcion_button": "Opciones",
+    "creador_button": "creador",
+    "Dificil": "Dificil",
+    "Facil": "Facil",
+    "exit_button": "Salir",
+    "titulo_message": "La página está en mantenimiento, vuelva más tarde.",
+    "back_button": "Atrás",
+    "options_titulo": "Opciones de juego",
+    "languaje_button": "Idioma",
+    "Volumen_button": "volumen",
+    "lenguaje_message": "Seleccione su idioma",
+    "Idioma_ES": "Español",
+    "Idioma_IN": "Inglés",
+    "Idioma_BR": "portugués",
+    "Idioma_RU": "Ruso"
+}
